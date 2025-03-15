@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+
+sudo mount -t 9p -o trans=virtio /sharepoint ~/DATA

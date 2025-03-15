@@ -1,0 +1,9 @@
+background = #2d353b
+foreground = #d3c6aa
+selection-foreground = #2d353b
+selection-background = #d3c6aa
+background-opacity = 0.8
+background-blur = 4
+font-family = MesloLGS Nerd Font
+font-size = 13
+window-decoration = none
